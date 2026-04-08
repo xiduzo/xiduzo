@@ -17,10 +17,10 @@ I build tools that make professionals faster and individuals more capable — wo
 
 ### Things I've built
 
-- [Microflow](https://microflow.tech) — node-based editor for prototyping microcontroller interactions, no firmware required
-- [Fissa](https://fissa-houseparty.vercel.app) — party playlist app where every guest votes on what plays next
-- [Assessor Bot](https://sanderboer.nl/project/assessor-bot) — LLM-assisted feedback so students don't have to wait for a teacher
-- [VeileNext](https://sanderboer.nl/project/veilenext) — modernizing the world's largest flower auction platform
+- ⚡ [Microflow](https://microflow.tech) — node-based editor for prototyping microcontroller interactions, no firmware required
+- 🐕 [Fissa](https://fissa-houseparty.vercel.app) — party playlist app where every guest votes on what plays next
+- 🦜 [Assessor Bot](https://sanderboer.nl/project/assessor-bot) — LLM-assisted feedback so students don't have to wait for a teacher
+- 💐 [VeileNext](https://sanderboer.nl/project/veilenext) — modernizing the world's largest flower auction platform
 - [masterdocs](https://masterdocs.dev) — self-hostable platform for structured learning paths
 
 ---
