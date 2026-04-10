@@ -17,7 +17,9 @@ I build tools that make professionals faster and individuals more capable — wo
 
 ### Things I've built
 
-- 🎛️ [Microflow](https://microflow.tech) — node-based editor for prototyping microcontroller interactions, no firmware required
-- 🐕 [Fissa](https://fissa-houseparty.vercel.app) — party playlist app where every guest votes on what plays next
-- 📖 [Glosario](https://glosar.io/) — collaborative glossary platform for keeping org-wide language consistent
-- 📚 [masterdocs](https://masterdocs.dev) — self-hostable platform for structured learning paths
+|  |  |
+| --- | --- |
+| 🎛️ [Microflow](https://microflow.tech) | A node-based editor for prototyping microcontroller interactions |
+| 🐕 [Fissa](https://fissa-houseparty.vercel.app) | A party playlist app where every guest votes on what plays next |
+| 📖 [Glosario](https://glosar.io/) | A collaborative glossary platform for keeping org-wide language consistent |
+| 📚 [masterdocs](https://masterdocs.dev)  | A self-hostable platform for structured learning paths |
