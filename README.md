@@ -19,6 +19,7 @@ I build tools that make professionals faster and individuals more capable — wo
 
 |  |  |
 | --- | --- |
+| 🎙️ [yapyap](https://yap-yap.app) | A local-first (meeting) recorder. Own your voice again. |
 | 🎛️ [Microflow](https://microflow.tech) | A node-based editor for prototyping microcontroller interactions |
 | 🐕 [Fissa](https://fissa-houseparty.vercel.app) | A party playlist app where every guest votes on what plays next |
 | 📖 [Glosario](https://glosar.io/) | A collaborative glossary platform for keeping org-wide language consistent |
