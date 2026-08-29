@@ -1,45 +1,43 @@
 # Hey, I'm Sander 👋
 
-I lead engineering work at the seam between design and delivery — and I'm moving toward doing that as an engineering manager.
+Designer by education. Developer by craft. Tinkerer by nature.
 
-Designer by education, engineer for 19 years. That combination means I spend most of my time making sure product, design, and engineering are solving the same problem, rather than three adjacent ones.
-
----
-
-### Where I've led
-
-**Modernizing the world's largest flower auction** — I proposed bringing React into a new auction stack at [Royal FloraHolland](https://www.sanderboer.nl/project/veilenext), and built the first version end to end: CI/CD, cloud, QA, front-end, design. As it found its scale, I grew the work out to tech leads, designers, and QA engineers and handed over the parts where they could go deeper than I could. Piloted successfully, rolled out to all auction locations in 2025.
-
-**Teaching and assessing at [Master Digital Design](https://www.masterdigitaldesign.com/alumni/sander-boer)** — several years of mentoring, workshops, and assessing student work against competency frameworks. When LLM-written submissions started showing up, I argued for guidance over banning, and helped run a week of curriculum on using AI critically in creative work.
-
-**[Designing intent](https://www.sanderboer.nl/post/2026/designing-intent)** — a field guide to how teams should actually delegate to AI, and the argument I keep making: shift up from doing to designing. Frame the problem, set the constraints, review the outcome. Presented internally as an expertise session.
+I build tools that make professionals faster and individuals more capable — working at the intersection of good engineering and great experience.
 
 ---
 
-### How I think about the work
+### What I'm up to
 
-- **Context over control.** People make better calls than I do when they understand the constraints. Making sure they do is most of the job.
-- **Design and engineering aren't a handoff.** I've done both seriously. Teams that treat them as one conversation ship better products, faster.
-- **Handing over is the skill.** The most valuable thing I did on VeileNext was give the work to people who could take it further.
-- **Still close to the code.** Close enough to read a design doc properly, ask the uncomfortable question, and know when an estimate is fiction.
+At [INFO](https://info.nl) I look after the growth and performance of our engineers, and I'm working out how an agentic way of working lands across a whole organization — not just the part of it that writes code. Turns out the interesting problem is how teams are composed, not which tools they hold.
+
+Before that: tech lead work across client teams, and four years replacing the trading infrastructure of the world's largest flower auction.
+
+- 🔥 Turning complex problems into things people actually enjoy using
+- 🎓 BSc Communication & Multimedia Design · MSc Digital Design
+- 🧑‍🏫 Six years teaching, coaching and assessing at the Master Digital Design
+- 🛠️ 19 years building software — from game mods to production SaaS
+- 🌍 Based in Utrecht
 
 ---
 
-### Why I still build things
-
-Side projects are where I keep my technical judgment honest — and where a lot of the teaching material comes from.
+### Things I've built
 
 |  |  |
 | --- | --- |
 | 🎙️ [yapyap](https://yap-yap.app) | A local-first (meeting) recorder. Own your voice again. |
-| 🎛️ [Microflow](https://microflow.tech) | A node-based editor for prototyping microcontroller interactions — built for the design students I teach |
-| 📖 [Glosario](https://glosar.io/) | A collaborative glossary for keeping org-wide language consistent |
-| 🦾 [WTF](https://github.com/xiduzo/wtf) | Skills for managing GitHub issues in an Epic → Feature → Task hierarchy |
+| 🎛️ [Microflow](https://microflow.tech) | A node-based editor for prototyping microcontroller interactions |
+| 🐕 [Fissa](https://fissa-houseparty.vercel.app) | A party playlist app where every guest votes on what plays next |
+| 📖 [Glosario](https://glosar.io/) | A collaborative glossary platform for keeping org-wide language consistent |
+| 📚 [Masterdocs](https://masterdocs.dev) | A self-hostable platform for structured learning paths |
+| 🦾 [WTF](https://github.com/xiduzo/wtf) | A set of skills for managing GitHub issues using an Epic → Feature → Task hierarchy |
 
 ---
 
-### Open to
+### Things I've written
 
-Engineering management roles, Amsterdam or remote — ideally a first team where design quality and engineering rigour are both non-negotiable. Happy to talk about what stepping into the role properly looks like.
+- [Designing intent](https://www.sanderboer.nl/post/2026/designing-intent) — stop prompting, start delegating. A map of AI workflows and when to shift up from doing to designing.
+- More case studies and brainfarts at [sanderboer.nl](https://www.sanderboer.nl)
 
-🌍 [sanderboer.nl](https://www.sanderboer.nl) · 📫 mail@sanderboer.nl
+---
+
+📫 [mail@sanderboer.nl](mailto:mail@sanderboer.nl) · [LinkedIn](https://www.linkedin.com/in/xiduzo)
