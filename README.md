@@ -2,20 +2,20 @@
 
 Designer by education. Developer by craft. Tinkerer by nature.
 
-I build tools that make professionals faster and individuals more capable — working at the intersection of good engineering and great experience.
+I build tools that make professionals faster and individuals more capable. I work where good engineering meets great experience.
 
 ---
 
 ### What I'm up to
 
-At [INFO](https://info.nl) I look after the growth and performance of our engineers, and I'm working out how an agentic way of working lands across a whole organization — not just the part of it that writes code. Turns out the interesting problem is how teams are composed, not which tools they hold.
+At [INFO](https://info.nl) I look after the growth and performance of our engineers. I am also working out how an agentic way of working lands across a whole organization, not just the part of it that writes code. The interesting problem is how teams are composed, not which tools they hold.
 
-Before that: tech lead work across client teams, and four years replacing the trading infrastructure of the world's largest flower auction.
+Before that I did tech lead work across client teams. And I spent four years replacing the trading infrastructure of the world's largest flower auction.
 
 - 🔥 Turning complex problems into things people actually enjoy using
 - 🎓 BSc Communication & Multimedia Design · MSc Digital Design
 - 🧑‍🏫 Six years teaching, coaching and assessing at the Master Digital Design
-- 🛠️ 19 years building software — from game mods to production SaaS
+- 🛠️ 19 years building software, from game mods to production SaaS
 - 🌍 Based in Utrecht
 
 ---
@@ -35,7 +35,7 @@ Before that: tech lead work across client teams, and four years replacing the tr
 
 ### Things I've written
 
-- [Designing intent](https://www.sanderboer.nl/post/2026/designing-intent) — stop prompting, start delegating. A map of AI workflows and when to shift up from doing to designing.
+- [Designing intent](https://www.sanderboer.nl/post/2026/designing-intent). Stop prompting. Start delegating. A map of AI workflows, and when to shift up from doing to designing.
 - More case studies and brainfarts at [sanderboer.nl](https://www.sanderboer.nl)
 
 ---
