@@ -24,6 +24,7 @@ Before that I did tech lead work across client teams. And I spent four years rep
 
 |  |  |
 | --- | --- |
+| 🧩 [yourskills](https://yourskills.store) | A skill registry for AI agents. Your org's skills stay in your own git repo, we only hold the metadata. |
 | 🎙️ [yapyap](https://yap-yap.app) | A local-first (meeting) recorder. Own your voice again. |
 | 🎛️ [Microflow](https://microflow.tech) | A node-based editor for prototyping microcontroller interactions |
 | 🐕 [Fissa](https://fissa-houseparty.vercel.app) | A party playlist app where every guest votes on what plays next |
